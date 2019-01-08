@@ -1,0 +1,21 @@
+{
+  "name": "sails-script",
+  "version": "0.0.1",
+  "description": "Runner script for sails script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sails",
+    "script",
+    "sails-script",
+    "automation"
+  ],
+  "bin": {
+    "sails-script": "./bin/sails-script.js"
+  },
+  "preferGlobal": true,
+  "author": "frostme",
+  "license": "ISC"
+}
