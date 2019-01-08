@@ -17,5 +17,9 @@
   },
   "preferGlobal": true,
   "author": "frostme",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frostme/sails-script.git"
+  }
 }
